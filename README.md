@@ -1,4 +1,7 @@
 # hello-world
 Just another repository.
 
-I will continue to edit this file until I become proficient at using GitHub!!!
+My name is Edward S. Kim.
+I am a student at El Camino College.
+I would like to become proficient at programming and design. 
+Let's do it!
